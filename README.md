@@ -1,5 +1,11 @@
-## **_GitHub. HW_1_**
+### _CONTENT_ 
+### [:arrow_forward: JSON](https://github.com/EvgeneyKEO/GitHub_HW1#large_orange_diamond-json)
+### [:arrow_forward: XML](https://github.com/EvgeneyKEO/GitHub_HW1#large_orange_diamond-xml)
+### [:arrow_forward: TXT](https://github.com/EvgeneyKEO/GitHub_HW1#large_orange_diamond-txt)
 __________________________________________________________________________________
+
+### **_GitHub. HW_1_**
+> Созданные файлы по домайшней работе находятся в отдельных репозиториях ([JSON](https://github.com/EvgeneyKEO/JSON.git), [XML](https://github.com/EvgeneyKEO/XML.git), [TXT](https://github.com/EvgeneyKEO/TXT.git))
  1. Создайте текстовый файл как в первом ДЗ по Terminal
  2. Сценарий перенесите в этот файл.
  3. На против каждого действия - напишите команду в GitBash
